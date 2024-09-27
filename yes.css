@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+.heading{
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 75px;
+}
+
+.image>img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 500px;
+}
